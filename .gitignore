@@ -18,3 +18,8 @@ venv.bak/
 
 # Do NOT ignore data directory (per instructions)
 !data/
+
+
+# Exclude assignment instructions and generator
+*.pdf
+generate_dataset.py
